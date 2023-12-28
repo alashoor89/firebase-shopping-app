@@ -1,4 +1,5 @@
-# Week 5: Introduction to Pub.dev/Page Navigation
+# Firebase Shopping app
+## From [GDSC-IAU-TASK-5](https://github.com/alashoor89/gdsc-iau-week-5) repository
 ## Overview
 
 The simplest way to buy your fresh products, like fruits, vegetables, bakeries and so more.
